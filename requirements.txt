@@ -1,4 +1,4 @@
 django
 djangorestframework
 dotenv
-psycopg2-binary
+psycopg2-binary==3.1.9
